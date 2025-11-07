@@ -1,0 +1,5 @@
+{
+  "name": "AI Headshot Photographer",
+  "description": "Upload a selfie, choose a professional style or provide a custom prompt, and generate a new headshot using Gemini AI. Edit your photos with simple text commands.",
+  "requestFramePermissions": []
+}
